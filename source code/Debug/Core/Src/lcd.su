@@ -1,0 +1,8 @@
+../Core/Src/lcd.c:15:6:delay_us	24	static
+../Core/Src/lcd.c:22:6:LCD_Enable	8	static
+../Core/Src/lcd.c:30:6:LCD_Send_4Bits	16	static
+../Core/Src/lcd.c:39:6:LCD_Send_Cmd	16	static
+../Core/Src/lcd.c:47:6:LCD_Send_Data	16	static
+../Core/Src/lcd.c:55:6:LCD_Send_String	16	static
+../Core/Src/lcd.c:62:6:LCD_Set_Cursor	24	static
+../Core/Src/lcd.c:68:6:LCD_Init	8	static
